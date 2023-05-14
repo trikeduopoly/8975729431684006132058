@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603446334935",
+    "project_id": "winong-tanpa-jaminan",
+    "storage_bucket": "winong-tanpa-jaminan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603446334935:android:291a5a241230187a6ba792",
+        "android_client_info": {
+          "package_name": "com.pinjolmudahcepatcair.pinjamanonlinelangsungcair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603446334935-o6odftladtjap1vn476iiqbtt36rck2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgoijHG9H9mMlSnx9kVbhlgopaEHb4Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603446334935-o6odftladtjap1vn476iiqbtt36rck2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
